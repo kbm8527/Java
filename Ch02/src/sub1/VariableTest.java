@@ -1,20 +1,21 @@
 package sub1;
 
 /*
- * 	³¯Â¥:2020/04/29
- * 	ÀÌ¸§:±èº¸¹Ì
- * 	³»¿ë:ÀÚ¹Ù º¯¼ö ½Ç½ÀÇÏ±â 
+ * 	ë‚ ì§œ:2020/04/29
+ * 	ì´ë¦„:ê¹€ë³´ë¯¸
+ * 	ë‚´ìš©:ìë°” ë³€ìˆ˜ ì‹¤ìŠµí•˜ê¸° 
  */
 public class VariableTest {
 
 	public static void main(String[] args) {
-		//º¯¼ö : µ¥ÀÌÅÍ¸¦ ÀúÀåÇÏ´Â ¸Ş¸ğ¸® °ø°£
+		//ë³€ìˆ˜ : ë°ì´í„°ë¥¼ ì €ì¥í•˜ëŠ” ë©”ëª¨ë¦¬ ê³µê°„
 		int num1 = 1;
 		int num2 = 2;
 		
 		int num3 = num1 + num2;
 		
 		System.out.println("num3 : "+num3);
-		
+
+	System.out.println("num3 : "+num3);
 	}
 }
