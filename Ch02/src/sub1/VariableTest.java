@@ -17,6 +17,5 @@ public class VariableTest {
 		System.out.println("num3 : "+num3);
 		System.out.println("num3 : "+num3);
 		System.out.println("num3 : "+num3);
-		
 	}
 }
